@@ -1,0 +1,4 @@
+Halo pak saya orang, salam kenal saya dari Bumi
+
+Resolusi Gua :
+- Membuat website dengan framework javascript
